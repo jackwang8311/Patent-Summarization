@@ -1,5 +1,7 @@
 # Patent-Summarization
 The research purposes the NLP=Seq2Seq with attention methdology based patent summarization system to automatically compile the multi-lingual patents which can e-discover the highlights of IP technology and knowledge to provide enterprises focused R&D technology or best defense claims in the timely manner.
+# Website Server
+http://140.114.53.218/python/programs/Summary/index.php
 
 # Generic Methodology in Four Steps 
 1. The raw data pre-processing
